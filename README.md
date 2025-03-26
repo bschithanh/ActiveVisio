@@ -110,7 +110,7 @@
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
   cscript //nologo ospp.vbs /sethst:122.226.152.230
   cscript //nologo ospp.vbs /inpkey:9BGNQ-K37YR-RQHF2-38RQ3-7VCBB
-  cscript //nologo ospp.vbs /inpkey:GFNR9-GJ3T6-2GHCR-QF6CT-684YW
+  cscript //nologo ospp.vbs /inpkey:7TQNQ-K3YQQ-3PFH7-CCPPM-X4VQ2
 
 
   :end
@@ -152,8 +152,8 @@
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
   cscript //nologo ospp.vbs /sethst:122.226.152.230
-  cscript //nologo ospp.vbs /inpkey:YG9NW-3K39V-2T3HJ-93F3Q-G83KT
-  cscript //nologo ospp.vbs /inpkey:GNFHQ-F6YQM-KQDGJ-327XX-KQBVC
+  cscript //nologo ospp.vbs /inpkey:PD3PC-RHNGV-FXJ29-8JK7D-RJRJK
+  cscript //nologo ospp.vbs /inpkey:7WHWN-4T7MP-G96JF-G33KR-W8GF4
 
   :end
   :notsupported
