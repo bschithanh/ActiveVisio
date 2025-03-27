@@ -43,7 +43,7 @@
 ## Visio 2021:
 
   ```php
-
+  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/Visio2021.ps1)
   ```
 
   Hoặc
